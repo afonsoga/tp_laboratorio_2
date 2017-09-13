@@ -1,0 +1,21 @@
+C:\Users\Monica\Desktop\P2_L2_TP1\P2_L2_TP1\bin\Debug\P2_L2_TP1.exe.config
+C:\Users\Monica\Desktop\P2_L2_TP1\P2_L2_TP1\bin\Debug\P2_L2_TP1.exe
+C:\Users\Monica\Desktop\P2_L2_TP1\P2_L2_TP1\bin\Debug\P2_L2_TP1.pdb
+C:\Users\Monica\Desktop\P2_L2_TP1\P2_L2_TP1\obj\Debug\P2_L2_TP1.csprojResolveAssemblyReference.cache
+C:\Users\Monica\Desktop\P2_L2_TP1\P2_L2_TP1\obj\Debug\P2_L2_TP1.Form1.resources
+C:\Users\Monica\Desktop\P2_L2_TP1\P2_L2_TP1\obj\Debug\P2_L2_TP1.Properties.Resources.resources
+C:\Users\Monica\Desktop\P2_L2_TP1\P2_L2_TP1\obj\Debug\P2_L2_TP1.csproj.GenerateResource.Cache
+C:\Users\Monica\Desktop\P2_L2_TP1\P2_L2_TP1\obj\Debug\P2_L2_TP1.exe
+C:\Users\Monica\Desktop\P2_L2_TP1\P2_L2_TP1\obj\Debug\P2_L2_TP1.pdb
+I:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP1\P2_L2_TP1\bin\Debug\P2_L2_TP1.exe.config
+I:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP1\P2_L2_TP1\obj\Debug\P2_L2_TP1.exe
+I:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP1\P2_L2_TP1\obj\Debug\P2_L2_TP1.pdb
+I:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP1\P2_L2_TP1\bin\Debug\P2_L2_TP1.exe
+I:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP1\P2_L2_TP1\bin\Debug\P2_L2_TP1.pdb
+I:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP1\P2_L2_TP1\obj\Debug\P2_L2_TP1.csprojResolveAssemblyReference.cache
+I:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP1\P2_L2_TP1\obj\Debug\P2_L2_TP1.Form1.resources
+I:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP1\P2_L2_TP1\obj\Debug\P2_L2_TP1.Properties.Resources.resources
+I:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP1\P2_L2_TP1\obj\Debug\P2_L2_TP1.csproj.GenerateResource.Cache
+F:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP1\P2_L2_TP1\bin\Debug\P2_L2_TP1.exe.config
+F:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP1\P2_L2_TP1\obj\Debug\P2_L2_TP1.exe
+F:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP1\P2_L2_TP1\obj\Debug\P2_L2_TP1.pdb
