@@ -44,19 +44,19 @@ namespace TP_02
             Console.Clear();
 
             // Muestro solo Dulces
-            Console.WriteLine(changoDeCompras.Mostrar(changoDeCompras, Changuito.ETipo.Dulce));
+            Console.WriteLine(Changuito.Mostrar(changoDeCompras, Changuito.ETipo.Dulce));
             Console.WriteLine("<---------------------------------------------->");
             Console.ReadKey();
             Console.Clear();
 
             // Muestro solo Leches
-            Console.WriteLine(changoDeCompras.Mostrar(changoDeCompras, Changuito.ETipo.Leche));
+            Console.WriteLine(Changuito.Mostrar(changoDeCompras, Changuito.ETipo.Leche));
             Console.WriteLine("<---------------------------------------------->");
             Console.ReadKey();
             Console.Clear();
 
             // Muestro solo Snacks
-            Console.WriteLine(changoDeCompras.Mostrar(changoDeCompras, Changuito.ETipo.Snacks));
+            Console.WriteLine(Changuito.Mostrar(changoDeCompras, Changuito.ETipo.Snacks));
             Console.WriteLine("<---------------------------------------------->");
             Console.ReadKey();
         }

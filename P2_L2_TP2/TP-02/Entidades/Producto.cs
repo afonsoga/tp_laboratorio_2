@@ -40,7 +40,7 @@ namespace Entidades_2017
         /// <returns></returns>
         public virtual string Mostrar()
         {
-            return ((string)this);
+            return (string)this;
         }
 
         public static explicit operator string(Producto p)

@@ -13,3 +13,13 @@ C:\Users\Monica\Desktop\TP-02\Entidades\bin\Debug\Entidades.pdb
 C:\Users\Monica\Desktop\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 C:\Users\Monica\Desktop\TP-02\Entidades\obj\Debug\Entidades.dll
 C:\Users\Monica\Desktop\TP-02\Entidades\obj\Debug\Entidades.pdb
+I:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP2\TP-02\Entidades\bin\Debug\Entidades.dll
+I:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP2\TP-02\Entidades\bin\Debug\Entidades.pdb
+I:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP2\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+I:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP2\TP-02\Entidades\obj\Debug\Entidades.dll
+I:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP2\TP-02\Entidades\obj\Debug\Entidades.pdb
+H:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP2\TP-02\Entidades\bin\Debug\Entidades.dll
+H:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP2\TP-02\Entidades\bin\Debug\Entidades.pdb
+H:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP2\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+H:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP2\TP-02\Entidades\obj\Debug\Entidades.dll
+H:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP2\TP-02\Entidades\obj\Debug\Entidades.pdb

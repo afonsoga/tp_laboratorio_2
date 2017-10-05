@@ -37,7 +37,7 @@ namespace Entidades_2017
         /// <returns></returns>
         public override string ToString()
         {
-            return this.Mostrar(this, ETipo.Todos);
+            return Changuito.Mostrar(this, ETipo.Todos);
         }
         #endregion
 
@@ -50,7 +50,7 @@ namespace Entidades_2017
         /// <param name="c">Elemento a exponer</param>
         /// <param name="ETipo">Tipos de ítems de la lista a mostrar</param>
         /// <returns></returns>
-        public string Mostrar(Changuito c, ETipo tipo) //quitar static
+        public static string Mostrar(Changuito c, ETipo tipo)
         {
             StringBuilder sb = new StringBuilder();
 
