@@ -1,0 +1,18 @@
+CLASE DE: Laboratorio DICTADA POR NOMBRE COMPLETO: Juarez, Roberto
+NACIONALIDAD: Argentino
+DNI: 32234456
+LEGAJO Nº: 2
+
+CLASES DEL DÍA:
+Laboratorio
+Laboratorio
+
+ALUMNOS:
+NOMBRE COMPLETO: Suarez, Joaquin
+NACIONALIDAD: Extranjero
+DNI: 91122456
+LEGAJO Nº: 7
+
+ESTADO DE CUENTA: AlDia
+TOMA CLASES DE Laboratorio
+

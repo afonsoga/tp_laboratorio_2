@@ -1,0 +1,10 @@
+I:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP3\Afonso.Gabriel.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
+I:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP3\Afonso.Gabriel.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+I:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP3\Afonso.Gabriel.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
+I:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP3\Afonso.Gabriel.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb
+I:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP3\Afonso.Gabriel.2D.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+H:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP3\Afonso.Gabriel.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
+H:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP3\Afonso.Gabriel.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+H:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP3\Afonso.Gabriel.2D.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+H:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP3\Afonso.Gabriel.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
+H:\2017\2do cuatrimestre\P_2_L_2\TPs\P2_L2_TP3\Afonso.Gabriel.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb
